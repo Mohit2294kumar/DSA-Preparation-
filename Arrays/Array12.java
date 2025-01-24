@@ -1,4 +1,4 @@
-class Solution {
+class Array12 {
 
     // Function to find maximum circular subarray sum.
     public int circularSubarraySum(int arr[]) {
